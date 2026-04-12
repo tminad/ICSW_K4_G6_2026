@@ -8,17 +8,17 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 
 | Apellido, Nombre | Legajo | Mail | GitHub |
 |--------|----------|--------|-----|
-|Acosta, Joaquin Ezequiel|          |        |     |
+|Acosta, Joaquin Ezequiel|86591|        |     |
 |Alloatti, Uriel|          |        |     |
-|Bottero, Constantino Jesús|          |        |     |
+|Bottero, Constantino Jesús|400892|        |     |
 |Della Maggiore, Maximo|          |        |     |
 |Ellena, Santiago| | | |
-|Galimberti, Emilio Andres| | | |
+|Galimberti, Emilio Andres|90747| | |
 |Guiñazu, Gastón Ignacio| | | |
 |Mina, Tomas|87680|devminatomas@gmail.com|tminad|
 |Peralta, Darwin| | | |
 |Quinteros, Santiago Jesus| | | |
-|Reinaudo, Francisco| | | |
+|Reinaudo, Francisco|400281| | |
 |Vallania, Catalina| | | |
 
 
