@@ -31,19 +31,11 @@ ICSW_4K4_G6/
 ├── Parciales/
 │   └── Parcial_[N°]/
 │       ├── Resumenes/
-│       │   └── resumen_[autor].pdf
 │       └── Unidades/
 │           └── Unidad_[N°]_[Nombre]/
-│               ├── apunte_[fecha]_[autor/es].txt
-│               ├── filmina_[fecha].ppt
 │               └── Ejercicios_Practicos
-│                   └── ejercicio_[N°]
 ├── TPs/
-│   ├── TPG/
-│   │   ├── No_evaluable/
-│   │   └── Evaluable/
-│   └── TIG/
-│       └── charlaTED
+│   └── TP_[N°]
 ├── Bibliografia/
 └── Lineamientos/
 └── README.md
