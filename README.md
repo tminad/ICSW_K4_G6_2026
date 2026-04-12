@@ -16,7 +16,7 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 |Galimberti, Emilio Andres|90747| | |
 |Guiñazu, Gastón Ignacio| | | |
 |Mina, Tomas|87680|devminatomas@gmail.com|tminad|
-|Peralta, Darwin| | | |
+|Peralta, Darwin|401114|darwinperaltaaa@gmail.com|darwinperalta190-ux|
 |Quinteros, Santiago Jesus| | | |
 |Reinaudo, Francisco|400281| | |
 |Vallania, Catalina| | | |
