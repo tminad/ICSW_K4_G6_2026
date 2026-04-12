@@ -53,7 +53,7 @@ ICSW_4K4_G6/
 
 ## Items de configuracion
 
-| Item | Descripcion | Version | Responsable |
+| Item de Configuracion| Regla de Nombrado | Ubicacion | Descripcion |
 |------|-------------|---------|-------------|
 |      |             |         |             |
 |      |             |         |             |
