@@ -28,16 +28,16 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 
 ```
 ICSW_4K4_G6/
-├── Parciales/
-│   └── Parcial_[N°]/
-│       ├── Resumenes/
-│       └── Unidades/
-│           └── Unidad_[N°]_[Nombre]/
-│               └── Ejercicios_Practicos
-├── TPs/
-│   └── TP_[N°]
-├── Bibliografia/
-└── Lineamientos/
+├── 📂 Parciales/
+│   └── 📂 Parcial_[N°]/
+│       ├── 📂 Resumenes/
+│       └── 📂 Unidades/
+│           └── 📂 Unidad_[N°]_[Nombre]/
+│               └── 📂 Ejercicios_Practicos
+├── 📂TPs/
+│   └── 📂 TP_[N°]
+├── 📂 Bibliografia/
+└── 📂 Lineamientos/
 └── README.md
 ```
 
