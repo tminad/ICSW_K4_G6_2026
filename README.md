@@ -6,12 +6,21 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 
 ## Integrantes
 
-| Nombre | Apellido | Legajo | Rol |
+| Apellido, Nombre | Legajo | Mail | GitHub |
 |--------|----------|--------|-----|
-|        |          |        |     |
-|        |          |        |     |
-|        |          |        |     |
-|        |          |        |     |
+|Acosta, Joaquin Ezequiel        |          |        |     |
+|Alloatti, Uriel        |          |        |     |
+|Bottero, Constantino Jesús        |          |        |     |
+|Della Maggiore, Maximo        |          |        |     |
+|Ellena, Santiago
+|Galimberti, Emilio Andres
+|Guiñazu, Gastón Ignacio
+|Mina, Tomas
+|Peralta, Darwin
+|Quinteros, Santiago Jesus
+|Reinaudo, Francisco
+|Vallania, Catalina
+
 
 ---
 
