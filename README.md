@@ -64,8 +64,9 @@ ICSW_4K4_G6/
 
 ## Criterios para la creacion de lineas bases
 
-Se creara la primera línea base cuando todos los items de configuracion definidos como recursos de la catedra esten subidos y en su ubicacion solicitaad. 
-Se crearan nuevas lineas base cada vez que se haga una entrega de TP, o llegada la fecha de parcial 
+• Se creara la primera línea base cuando todos los items de configuracion definidos como recursos de la catedra esten subidos y en su ubicacion solicitaad. 
+
+• Se crearan nuevas lineas base cada vez que se haga una entrega de TP, o llegada la fecha de parcial 
 
 ---
 
