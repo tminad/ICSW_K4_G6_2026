@@ -8,18 +8,18 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 
 | Apellido, Nombre | Legajo | Mail | GitHub |
 |--------|----------|--------|-----|
-|Acosta, Joaquin Ezequiel        |          |        |     |
-|Alloatti, Uriel        |          |        |     |
-|Bottero, Constantino Jesús        |          |        |     |
-|Della Maggiore, Maximo        |          |        |     |
-|Ellena, Santiago
-|Galimberti, Emilio Andres
-|Guiñazu, Gastón Ignacio
-|Mina, Tomas
-|Peralta, Darwin
-|Quinteros, Santiago Jesus
-|Reinaudo, Francisco
-|Vallania, Catalina
+|Acosta, Joaquin Ezequiel|          |        |     |
+|Alloatti, Uriel|          |        |     |
+|Bottero, Constantino Jesús|          |        |     |
+|Della Maggiore, Maximo|          |        |     |
+|Ellena, Santiago| | | |
+|Galimberti, Emilio Andres| | | |
+|Guiñazu, Gastón Ignacio| | | |
+|Mina, Tomas|87680|devminatomas@gmail.com|tminad|
+|Peralta, Darwin| | | |
+|Quinteros, Santiago Jesus| | | |
+|Reinaudo, Francisco| | | |
+|Vallania, Catalina| | | |
 
 
 ---
@@ -28,14 +28,24 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 
 ```
 ICSW_4K4_G6/
-├── docs/
-│   ├── requisitos/
-│   └── diseño/
-├── src/
-│   ├── frontend/
-│   └── backend/
-├── tests/
-├── config/
+├── Parciales/
+│   └── Parcial_[N°]/
+│       ├── Resumenes/
+│       │   └── resumen_[autor].pdf
+│       └── Unidades/
+│           └── Unidad_[N°]_[Nombre]/
+│               ├── apunte_[fecha]_[autor/es].txt
+│               ├── filmina_[fecha].ppt
+│               └── Ejercicios_Practicos
+│                   └── ejercicio_[N°]
+├── TPs/
+│   ├── TPG/
+│   │   ├── No_evaluable/
+│   │   └── Evaluable/
+│   └── TIG/
+│       └── charlaTED
+├── Bibliografia/
+└── Lineamientos/
 └── README.md
 ```
 
