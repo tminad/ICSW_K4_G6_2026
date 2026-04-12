@@ -1,6 +1,6 @@
 # ICSW_4K4_G6
 
-Repositorio para la materia "Ingenieria y Calidad de Software" 4k4 2026
+Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2026
 
 ---
 
