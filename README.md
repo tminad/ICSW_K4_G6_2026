@@ -47,16 +47,22 @@ ICSW_4K4_G6/
 
 | Item de Configuracion| Regla de Nombrado | Ubicacion | Descripcion |
 |------|-------------|---------|-------------|
-|      |             |         |             |
-|      |             |         |             |
-|      |             |         |             |
-|      |             |         |             |
+|Resumenes|Resumen_[autor].pdf|ICSW_4K4_G6/Parciales/Parcial_[N°]/Resumenes/|Recurso propio del grupo|
+|Apuntes|Apunte_[fecha]_[autor].[txt]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]|Recurso propio del grupo|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
 
 ---
 
 ## Criterios para la creacion de lineas bases
 
-• Se creara la primera línea base cuando todos los items de configuracion definidos como recursos de la catedra esten subidos y en su ubicacion solicitaad. 
+• Se creara la primera línea base cuando todos los items de configuracion definidos como recursos de la catedra esten subidos y en su ubicacion solicitada. 
 
 • Se crearan nuevas lineas base cada vez que se haga una entrega de TP, o llegada la fecha de parcial 
 
@@ -65,4 +71,4 @@ ICSW_4K4_G6/
 ## Link publico hacia el repositorio
 
 <!-- Reemplazar con el link real -->
-[Repositorio ICSW_4K4_G6](https://github.com/usuario/ICSW_4K4_G6)
+[Repositorio ICSW_4K4_G6](https://github.com/tminad/ICSW_K4_G6_2026)
