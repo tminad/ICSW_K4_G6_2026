@@ -13,7 +13,7 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 |Bottero, Constantino Jesús|400892|        |     |
 |Della Maggiore, Maximo|          |        |     |
 |Ellena, Santiago| | | |
-|Galimberti, Emilio Andres|90747| | |
+|Galimberti, Emilio Andres|90747|galimbertiemilio6@gmail.com|EmilioGalimberti |
 |Guiñazu, Gastón Ignacio| | | |
 |Mina, Tomas|87680|devminatomas@gmail.com|tminad|
 |Peralta, Darwin|401114|darwinperaltaaa@gmail.com|darwinperalta190-ux|
