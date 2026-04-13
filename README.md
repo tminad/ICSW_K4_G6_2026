@@ -19,7 +19,7 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 |Peralta, Darwin|401114|darwinperaltaaa@gmail.com|darwinperalta190-ux|
 |Quinteros, Santiago Jesus|400102|santiq1520@gmail.com|SantiQuinteros12|
 |Reinaudo, Francisco|400281| | |
-|Vallania, Catalina| | | |
+|Vallania, Catalina|400229|catalinavallania@gmail.com|catalina400229|
 
 
 ---
