@@ -5,8 +5,9 @@
 </p>
 
 ---
-🏫 Universidad: Universidad Tecnológica Nacional, Facultad Regional Córdoba
-👥 Grupo: N°6 👥 Curso: 4K4
+Universidad: Universidad Tecnológica Nacional, Facultad Regional Córdoba </br>
+Grupo: N°6 
+Curso: 4K4
 ---
 
 ## Integrantes
