@@ -8,7 +8,7 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 
 | Apellido, Nombre | Legajo | Mail | GitHub |
 |--------|----------|--------|-----|
-|Acosta, Joaquin Ezequiel|86591|        |     |
+|Acosta, Joaquin Ezequiel|86591|joaquinacosta2812@gmail.com|JoaquinAcosta2812|
 |Alloatti, Uriel|          |        |     |
 |Bottero, Constantino Jesús|400892|        |     |
 |Della Maggiore, Maximo|          |        |     |
