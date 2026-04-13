@@ -60,6 +60,23 @@ ICSW_4K4_G6/
 
 ---
 
+## Glosario
+
+| Abreviatura | Descripción |
+|------------|-------------|
+| TP | Trabajo Práctico |
+| PPT | Presentación de PowerPoint |
+| TIG | Trabajo de Investigación Grupal |
+| ICSW | Ingeniería y Calidad de Software |
+| SW | Software |
+| G6 | Grupo 6 |
+| U | Unidad |
+| [autor] | Apellido del autor del archivo |
+| [fecha] | Clase a la que refiere ese apunte |
+| [Tema] | Tema de la materia al cual hace referencia |
+
+---
+
 ## Criterios para la creacion de lineas bases
 
 • Se creara la primera línea base cuando todos los items de configuracion definidos como recursos de la catedra esten subidos y en su ubicacion solicitada. 
