@@ -10,15 +10,15 @@ Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2
 |--------|----------|--------|-----|
 |Acosta, Joaquin Ezequiel|86591|joaquinacosta2812@gmail.com|JoaquinAcosta2812|
 |Alloatti, Uriel|          |        |     |
-|Bottero, Constantino Jesús|400892|        |     |
+|Bottero, Constantino Jesús|400892|constibottero@gmail.com|ConstiBottero|
 |Della Maggiore, Maximo|          |        |     |
 |Ellena, Santiago| | | |
-|Galimberti, Emilio Andres|90747|galimbertiemilio6@gmail.com|EmilioGalimberti |
-|Guiñazu, Gastón Ignacio| | | |
+|Galimberti, Emilio Andres|90747|galimbertiemilio6@gmail.com|EmilioGalimberti|
+|Guiñazu, Gastón Ignacio|85020|gastonngui@gmail.com|GastonGuinazu|
 |Mina, Tomas|87680|devminatomas@gmail.com|tminad|
 |Peralta, Darwin|401114|darwinperaltaaa@gmail.com|darwinperalta190-ux|
 |Quinteros, Santiago Jesus|400102|santiq1520@gmail.com|SantiQuinteros12|
-|Reinaudo, Francisco|400281| | |
+|Reinaudo, Francisco|400281|franciscoreinaudo@gmail.com|FranReinaudo|
 |Vallania, Catalina|400229|catalinavallania@gmail.com|catalina400229|
 
 
