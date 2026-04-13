@@ -54,7 +54,7 @@ ICSW_4K4_G6/
 
 | Item de Configuracion| Regla de Nombrado | Ubicacion | Descripcion |
 |------|-------------|---------|-------------|
-|Resumenes|Resumen_[autor].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Resumenes/|Recurso propio del grupo|
+|Resumenes|Resumen_[autor].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Resumenes|Recurso propio del grupo|
 |Apuntes|Apunte_[fecha]_[autor].[docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]|Recurso propio del grupo|
 |Filminas|PPT_[N°]_[Tema].[ppt]|ICSW_4K4_G6/Parciales/Parcial_[N°].ppt/Unidades/Unidad_[N°]_[Nombre]|Recurso visual de la catedra de cada clase|
 |Ejercicios Practicos|Ejercicio_[N°]_[Tema].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Ejercicios_Practicos|Solucion de ejercicios propuestos por la catedra|
@@ -64,9 +64,9 @@ ICSW_4K4_G6/
 |Libros|[Tema]_[NombreLibro].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Libros ofrecidos por la catedra|
 |Papers|[Paper]_[NombrePaper].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Papers sugeridos por la cátedra|
 |Clases grabadas|ClasesGrabadas.[xslx]|ICSW_4K4_G6_2026/Bibliografia|Excel que contiene los links de las clases grabadas|
-|Cronograma|Cronograma_Clases_ICSW_2026.[xslx]|ICSW_4K4_G6/Lineamientos/|Archivo que contiene la organizacion de las clases del año|
-|Planificacion|Planificacion_ICSW_2026.[pdf]|ICSW_4K4_G6/Lineamientos/|Archivo sobre la planificacion completa de la materia|
-|Filmina presentacion|PPT_Presentacion_2026.[pdf]|ICSW_4K4_G6/Lineamientos/|PPT que se uso para presentar la materia|
+|Cronograma|Cronograma_Clases_ICSW_2026.[xslx]|ICSW_4K4_G6/Lineamientos|Archivo que contiene la organizacion de las clases del año|
+|Planificacion|Planificacion_ICSW_2026.[pdf]|ICSW_4K4_G6/Lineamientos|Archivo sobre la planificacion completa de la materia|
+|Filmina presentacion|PPT_Presentacion_2026.[pdf]|ICSW_4K4_G6/Lineamientos|PPT que se uso para presentar la materia|
 
 
 ---
