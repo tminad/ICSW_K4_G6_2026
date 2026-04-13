@@ -1,13 +1,12 @@
 # ICSW_4K4_G6
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=FF2C2C&vCenter=true&center=true&width=900&lines=Gestión+de+Configuración+SCM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=FF2C2C&vCenter=true&center=true&width=900&lines=Ingenieria+y+Calidad+De+Software+2026" alt="Typing SVG" />
 </p>
 
 ---
-
-Repositorio del grupo 6 para la materia "Ingenieria y Calidad de Software" 4k4 2026
-
+🏫 Universidad: Universidad Tecnológica Nacional, Facultad Regional Córdoba
+👥 Grupo: N°6 👥 Curso: 4K4
 ---
 
 ## Integrantes
