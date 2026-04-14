@@ -82,6 +82,7 @@ ICSW_4K4_G6/
 | SW | Software |
 | G6 | Grupo 6 |
 | U | Unidad |
+| N° | Número |
 | [autor] | Apellido del autor del archivo |
 | [fecha] | Clase a la que refiere ese apunte |
 | [Tema] | Tema de la materia al cual hace referencia |
