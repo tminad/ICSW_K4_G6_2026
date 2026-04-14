@@ -41,6 +41,8 @@ ICSW_4K4_G6/
 │       └── 📂 Unidades/
 │           └── 📂 Unidad_[N°]_[Nombre]/
 │               └── 📂 Ejercicios_Practicos
+|               └── 📂 Multimedia
+|
 ├── 📂TPs/
 │   └── 📂 TP_[N°]_[Evaluable/No_Evaluable]
 ├── 📂 Bibliografia/
@@ -58,6 +60,7 @@ ICSW_4K4_G6/
 |Apuntes|Apunte_[fecha]_[autor].[docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]|Recurso propio del grupo|
 |Filminas|PPT_[N°]_[Tema].[ppt]|ICSW_4K4_G6/Parciales/Parcial_[N°].ppt/Unidades/Unidad_[N°]_[Nombre]|Recurso visual de la catedra de cada clase|
 |Ejercicios Practicos|Ejercicio_[N°]_[Tema].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Ejercicios_Practicos|Solucion de ejercicios propuestos por la catedra|
+|Multimedia| [fecha]_[Tema][jpg/png/jpeg] |ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Multimeda |Fotos de pizarrón o diagramas propios|
 |Consigna Trabajo Práctico|Consigna_[N°]_[FechaEntrega].[pdf]|ICSW_4k4_G6/TPs/TP_[Evaluable/No_Evaluable]_[N°]|Consignas provistas por la catedra para cada tp|
 |Solucion Trabajo Práctico|TP[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/TP_[Evaluable/No_Evaluable]_[N°]|Solución propuesta por el grupo para cada tp| 
 |Trabajo de Investigacion|TIG[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/[Evaluable/No_Evaluable]_[N°]|Recurso propio del grupo para el trabajo de investigación|
