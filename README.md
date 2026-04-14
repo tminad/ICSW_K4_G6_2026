@@ -65,7 +65,7 @@ ICSW_4K4_G6/
 |Solucion Trabajo Práctico|TP[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/TP_[Evaluable/No_Evaluable]_[N°]|Solución propuesta por el grupo para cada tp| 
 |Trabajo de Investigacion|TIG[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/[Evaluable/No_Evaluable]_[N°]|Recurso propio del grupo para el trabajo de investigación|
 |Libros|[Tema]_[NombreLibro].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Libros ofrecidos por la catedra|
-|Papers|[Paper]_[NombrePaper].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Papers sugeridos por la cátedra|
+|Papers|Paper_[NombrePaper].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Papers sugeridos por la cátedra|
 |Clases grabadas|ClasesGrabadas.[xslx]|ICSW_4K4_G6_2026/Bibliografia|Excel que contiene los links de las clases grabadas|
 |Cronograma|Cronograma_Clases_ICSW_2026.[xslx]|ICSW_4K4_G6/Lineamientos|Archivo que contiene la organizacion de las clases del año|
 |Planificacion|Planificacion_ICSW_2026.[pdf]|ICSW_4K4_G6/Lineamientos|Archivo sobre la planificacion completa de la materia|
