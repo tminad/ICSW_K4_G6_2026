@@ -58,9 +58,9 @@ ICSW_4K4_G6/
 |Apuntes|Apunte_[fecha]_[autor].[docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]|Recurso propio del grupo|
 |Filminas|PPT_[N°]_[Tema].[ppt]|ICSW_4K4_G6/Parciales/Parcial_[N°].ppt/Unidades/Unidad_[N°]_[Nombre]|Recurso visual de la catedra de cada clase|
 |Ejercicios Practicos|Ejercicio_[N°]_[Tema].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Ejercicios_Practicos|Solucion de ejercicios propuestos por la catedra|
-|Consigna Trabajo Práctico|Consigna_[N°]_[FechaEntrega].[pdf]|ICSW_4k4_G6/TPs/TP_[Evaluable/No_Evaluable]_[N°]|Recurso de la catedra|
-|Solucion Trabajo Práctico|TP[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/TP_[Evaluable/No_Evaluable]_[N°]|Recurso propio del grupo| 
-|Trabajo de Investigacion|TIG[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/[Evaluable/No_Evaluable]_[N°]|Recurso propio del grupo|
+|Consigna Trabajo Práctico|Consigna_[N°]_[FechaEntrega].[pdf]|ICSW_4k4_G6/TPs/TP_[Evaluable/No_Evaluable]_[N°]|Consignas provistas por la catedra para cada tp|
+|Solucion Trabajo Práctico|TP[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/TP_[Evaluable/No_Evaluable]_[N°]|Solución propuesta por el grupo para cada tp| 
+|Trabajo de Investigacion|TIG[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4k4_G6/TPs/[Evaluable/No_Evaluable]_[N°]|Recurso propio del grupo para el trabajo de investigación|
 |Libros|[Tema]_[NombreLibro].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Libros ofrecidos por la catedra|
 |Papers|[Paper]_[NombrePaper].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Papers sugeridos por la cátedra|
 |Clases grabadas|ClasesGrabadas.[xslx]|ICSW_4K4_G6_2026/Bibliografia|Excel que contiene los links de las clases grabadas|
