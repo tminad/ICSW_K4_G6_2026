@@ -71,7 +71,7 @@ ICSW_4K4_G6/
 |Cronograma|Cronograma_Clases_ICSW_2026.[xslx]|ICSW_4K4_G6/Lineamientos|Archivo que contiene la organizacion de las clases del año|
 |Planificacion|Planificacion_ICSW_2026.[pdf]|ICSW_4K4_G6/Lineamientos|Archivo sobre la planificacion completa de la materia|
 |Filmina presentacion|PPT_Presentacion_2026.[pdf]|ICSW_4K4_G6/Lineamientos|PPT que se uso para presentar la materia|
-|Notas de clase|[Tema]_Notas_[DD/MM/AAAA]_[Autor].[pdf/jpg/png/docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Notas_Clase|Notas de clase|
+|Notas de clase|[Tema]_[DD/MM]_[Autor].[pdf/jpg/png/docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Notas_Clase|Notas de clase|
 |Acuerdos para la comunicación| Acuerdos_de_comunicacion.[pdf] |ICSW_4K4_G6/Lineamientos|Acuerdos para la comunicación con la catedra|
 
 
