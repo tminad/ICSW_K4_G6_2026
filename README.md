@@ -42,6 +42,7 @@ ICSW_4K4_G6/
 │           └── 📂 Unidad_[N°]_[Nombre]/
 │               └── 📂 Ejercicios_Practicos
 |               └── 📂 Multimedia
+|       └── 📂 Notas_Clase/
 |
 ├── 📂TPs/
 │   └── 📂 TP_[N°]_[Evaluable/No_Evaluable]
@@ -70,6 +71,7 @@ ICSW_4K4_G6/
 |Cronograma|Cronograma_Clases_ICSW_2026.[xslx]|ICSW_4K4_G6/Lineamientos|Archivo que contiene la organizacion de las clases del año|
 |Planificacion|Planificacion_ICSW_2026.[pdf]|ICSW_4K4_G6/Lineamientos|Archivo sobre la planificacion completa de la materia|
 |Filmina presentacion|PPT_Presentacion_2026.[pdf]|ICSW_4K4_G6/Lineamientos|PPT que se uso para presentar la materia|
+|Notas de clase|[Tema]_Notas_[DD/MM/AAAA]_[Autor].[pdf/jpg/png/docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Notas_Clase|Notas de clase|
 |Acuerdos para la comunicación| Acuerdos_de_comunicacion.[pdf] |ICSW_4K4_G6/Lineamientos|Acuerdos para la comunicación con la catedra|
 
 
@@ -95,7 +97,7 @@ ICSW_4K4_G6/
 
 ## Criterios para la creacion de lineas bases
 
-• Se creara la primera línea base cuando todos los items de configuracion definidos como recursos de la catedra esten subidos y en su ubicacion solicitada. 
+• Se creara la primera línea base cuando todos los items de configuracion definidos como recursos de la catedra esten subidos al repositorio.
 
 • Se crearan nuevas lineas base cada vez que se haga una entrega de TP, o llegada la fecha de parcial 
 
