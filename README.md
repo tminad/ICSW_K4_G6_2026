@@ -101,6 +101,13 @@ ICSW_4K4_G6/
 
 • Se crearan nuevas lineas base cada vez que se haga una entrega de TP, o llegada la fecha de parcial 
 
+Para la identificación de las líneas base, se adoptó una convención de nombrado basada únicamente en el número de versión correspondiente, por ejemplo: V1.0, V2.0, V3.0, permitiendo mantener un control claro sobre la evolución de los ítems de configuración.
+Un ítem de configuración será incorporado a una línea base cuando cumpla:
+-	Esté ubicado en la carpeta correspondiente
+-	Respete las reglas de nombrado definida en la lista de ítems de configuración
+-	Haya pasado por una auditoria cruzada (es decir que no basta con que el integrante que hizo el ítem lo haya revisado, sino que se espera que al menos otro integrante del grupo pueda validar y verificar que el ítem esté en condiciones)
+-	Sea su ultima versión (es decir no se aceptarán ítems de configuración que estén parcialmente realizados)
+
 ---
 
 ## Link publico hacia el repositorio
