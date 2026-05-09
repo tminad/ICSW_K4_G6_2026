@@ -105,7 +105,7 @@ Para la identificación de las líneas base, se adoptó una convención de nombr
 Un ítem de configuración será incorporado a una línea base cuando cumpla:
 -	Esté ubicado en la carpeta correspondiente
 -	Respete las reglas de nombrado definida en la lista de ítems de configuración
--	Haya pasado por una auditoria cruzada (es decir que no basta con que el integrante que hizo el ítem lo haya revisado, sino que se espera que al menos otro integrante del grupo pueda validar y verificar que el ítem esté en condiciones)
+-	Haya pasado por una revisión técnica (es decir que no basta con que el integrante que hizo el ítem lo haya revisado, sino que se espera que al menos otro integrante del grupo pueda validar y verificar que el ítem esté en condiciones)
 -	Sea su ultima versión (es decir no se aceptarán ítems de configuración que estén parcialmente realizados)
 
 ---
