@@ -63,7 +63,7 @@ ICSW_4K4_G6/
 |Ejercicios prácticos|Ejercicio_[N°]_[Tema].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Ejercicios_Practicos|Solución de ejercicios propuestos por la cátedra|
 |Multimedia| [fecha]_[Tema]_[N°DeOrden].[jpg/png/jpeg] |ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Multimedia |Fotos de pizarrón o diagramas propios|
 |Consigna de trabajo práctico|Consigna_[N°]_[FechaEntrega].[pdf/xlsx]|ICSW_4K4_G6/TPs/TP_[N°]_[Evaluable/No_Evaluable]|Consignas provistas por la cátedra para cada TP|
-|Solución de trabajo práctico|TP[N°]_[NombreTP]_4k4_G6.[pdf/jpg/png/jpeg/xlsx]|ICSW_4K4_G6/TPs/TP_[N°]_[Evaluable/No_Evaluable]|Solución propuesta por el grupo para cada TP|
+|Solución de trabajo práctico|TP[N°]_[NombreTP]_4k4_G6.[pdf/jpg/png/jpeg/xlsx/zip]|ICSW_4K4_G6/TPs/TP_[N°]_[Evaluable/No_Evaluable]|Solución propuesta por el grupo para cada TP|
 |Trabajo de investigación|TIG[N°]_[NombreTP]_4k4_G6.[pdf]|ICSW_4K4_G6/TPs/TP_[N°]_[Evaluable/No_Evaluable]|Recurso propio del grupo para el trabajo de investigación|
 |Libros|[Tema]_[NombreLibro].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Libros ofrecidos por la cátedra|
 |Papers|Paper_[NombrePaper].[pdf]|ICSW_4K4_G6_2026/Bibliografia|Papers sugeridos por la cátedra|
