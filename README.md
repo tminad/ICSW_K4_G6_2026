@@ -71,7 +71,7 @@ ICSW_4K4_G6/
 |Cronograma|Cronograma_Clases_ICSW_2026.[xlsx]|ICSW_4K4_G6/Lineamientos|Archivo que contiene la organización de las clases del año|
 |Planificación|Planificacion_ICSW_2026.[pdf]|ICSW_4K4_G6/Lineamientos|Archivo sobre la planificación completa de la materia|
 |Filmina de presentación|PPT_Presentacion_2026.[pdf]|ICSW_4K4_G6/Lineamientos|PPT que se usó para presentar la materia|
-|Notas de clase|[Tema]_[DD-MM]__[Autor].[pdf/jpg/png/docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Notas_Clase|Notas de clase|
+|Notas de clase|[Tema]_[DD-MM]_[Autor].[pdf/jpg/png/docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Notas_Clase|Notas de clase|
 |Acuerdos para la comunicación| Acuerdos_de_comunicacion.[pdf] |ICSW_4K4_G6/Lineamientos|Acuerdos para la comunicación con la cátedra|
 
 
@@ -112,4 +112,4 @@ Un ítem de configuración será incorporado a una línea base cuando cumpla:
 
 ## Enlace público al repositorio
 
-[Repositorio ICSW_4K4_G6](https://github.com/tminad/ICSW_K4_G6_2026)
+[Repositorio ICSW_4K4_G6_2026](https://github.com/tminad/ICSW_K4_G6_2026)
