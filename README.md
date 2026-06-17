@@ -59,7 +59,7 @@ ICSW_4K4_G6/
 |------|-------------|---------|-------------|
 |Resúmenes|Resumen_[autor].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Resumenes|Recurso propio del grupo|
 |Apuntes|Apunte_[fecha]_[autor].[docx]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]|Recurso propio del grupo|
-|Filminas|PPT_[N°]_[Tema].[ppt]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]|Recurso visual de la cátedra de cada clase|
+|Filminas|PPT_[N°]_[Tema].[ppt/pptx/pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]|Recurso visual de la cátedra de cada clase|
 |Ejercicios prácticos|Ejercicio_[N°]_[Tema].[pdf]|ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Ejercicios_Practicos|Solución de ejercicios propuestos por la cátedra|
 |Multimedia| [fecha]_[Tema]_[N°DeOrden].[jpg/png/jpeg] |ICSW_4K4_G6/Parciales/Parcial_[N°]/Unidades/Unidad_[N°]_[Nombre]/Multimedia |Fotos de pizarrón o diagramas propios|
 |Consigna de trabajo práctico|Consigna_[N°]_[FechaEntrega].[pdf/xlsx]|ICSW_4K4_G6/TPs/TP_[N°]_[Evaluable/No_Evaluable]|Consignas provistas por la cátedra para cada TP|
